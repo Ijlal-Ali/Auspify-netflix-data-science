@@ -47,6 +47,28 @@ Key areas analyzed:
 
 Visualizations were created using Matplotlib to communicate these findings.
 
+## Visualizations
+
+### Content Type Distribution
+
+![Content Type Distribution](screenshots/content_type.png)
+
+### Top Countries
+
+![Top Countries](screenshots/top_countries.png)
+
+### Top Categories
+
+![Top Categories](screenshots/top_categories.png)
+
+### Release Year Trend
+
+![Release Year Trend](screenshots/release_year_trend.png)
+
+### Classification Model Accuracy
+
+![Classification Model Accuracy](screenshots/model_accuracy.png)
+
 ### 3. Content-Based Recommendation System
 
 A content-based recommendation system was developed to recommend Netflix titles with similar characteristics.
